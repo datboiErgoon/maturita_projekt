@@ -35,3 +35,7 @@ Rozhodl jsem se vytvořit web, přes který by si uživatel mohl importovat vlas
 #### Prosinec
 
 # Zdroje
+- https://methodmatters.github.io/editing-id3-tags-mp3-meta-data-in-python/
+- https://eyed3.readthedocs.io/en/latest/
+- https://stackoverflow.com/questions/68518546/django-read-mp3-file-and-send-it-as-response
+
