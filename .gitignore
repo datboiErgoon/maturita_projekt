@@ -20,4 +20,5 @@ db.sqlite3
 .Trashes
 
 .idea/
+
 venv/

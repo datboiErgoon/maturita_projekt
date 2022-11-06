@@ -2,8 +2,6 @@
 
 ## Autor 
 - **Ondřej Repko**
-## Konzultanti
-- [Tomáš Fryčka](https://github.com/kektoor), [Štěpán Krautwurst](https://github.com/stallion7), **Ing. Petr Grussmann**
  
  ## Hudební webová stránka s použitím Django CMS-Quickstart
 Rozhodl jsem se vytvořit web, přes který by si uživatel mohl importovat vlastní MP3 soubory a následně si hudbu přehrát. Souborové syntaxy by se přečetly a zobrazily na stránce společně s funkcí přehrání a dalších několika podpůrných funkcí (Tlačítka Forward/Backward, Randomizer..). Dále by se na webové stránce dokázal uživatel přihlásit skrz Log-in systém.
@@ -37,7 +35,3 @@ Rozhodl jsem se vytvořit web, přes který by si uživatel mohl importovat vlas
 #### Prosinec
 
 # Zdroje
-- https://methodmatters.github.io/editing-id3-tags-mp3-meta-data-in-python/
-- https://eyed3.readthedocs.io/en/latest/
-- https://stackoverflow.com/questions/68518546/django-read-mp3-file-and-send-it-as-response
-
