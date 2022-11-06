@@ -4,11 +4,11 @@
 - **Ondřej Repko**
  
  ## Hudební webová stránka s použitím Django CMS-Quickstart
-Rozhodl jsem se vytvořit web, přes který by si uživatel mohl importovat vlastní MP3 soubory a následně si hudbu přehrát. Souborové syntaxy by se přečetly a zobrazily na stránce společně s funkcí přehrání a dalších několika podpůrných funkcí (Tlačítka Forward/Backward, Randomizer..). Dále by se na webové stránce dokázal uživatel přihlásit skrz Log-in systém.
+Rozhodl jsem se vytvořit web, přes který by si uživatel mohl importovat vlastní MP3 soubory a následně si hudbu přehrát. Souborové ID3 Tagy by se přečetly a zobrazily na stránce společně s funkcí přehrání a dalších několika podpůrných funkcí (Tlačítka Forward/Backward, Randomizer..). Dále by se na webové stránce dokázal uživatel přihlásit skrz Log-in systém.
 
 ## Cíle
 - Import MP3 souborů a celých alb
-- Přečtení souborových syntax a zobrazení v responzivní podobě na stránce (včetně grafiky)
+- Přečtení ID3 Tagů a zobrazení v responzivní podobě na stránce (včetně grafiky)
 - Funkce Fronta, Randomizer, Zobrazení textu, Vyhledání skladby na portálu Youtube a autora na Wikipedia
 - Log-in systém
 - Určitá kustomizace stránky (Dark/White theme, Pozadí, Téma, UI..)
